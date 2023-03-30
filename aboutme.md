@@ -10,8 +10,7 @@ My name is Zhaoheng Luo. I was a summer intern at Meta in 2022. I am interested 
 Two stories
 
 1.	I knew nothing about React.JS or JavaScript before I start my summer internship at Meta. But I was able to make my first commit to the group’s repo 3 days after I joined and finish the React.JS project in 6 weeks (3 weeks ahead of schedule).
-2.	
-3.	Recently I have to take an online assessment using Java. After spending 1.5 hours on the Linkedin learning courses, I was able to do the Java Object-Oriented Programming problem.
+2.	Recently I have to take an online assessment using Java. After spending 1.5 hours on the Linkedin learning courses, I was able to do the Java Object-Oriented Programming problem.
 
 ### Portfolio
 

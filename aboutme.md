@@ -13,12 +13,21 @@ Two stories
 2.	
 3.	Recently I have to take an online assessment using Java. After spending 1.5 hours on the Linkedin learning courses, I was able to do the Java Object-Oriented Programming problem.
 
-### My interest in building frontend and web services
+### Portfolio
 
 #### Tesla-website-clone
 Check out this website clone I built:
 - [GitHub repo](https://github.com/frank-1150/Tesla-website-clone)
 - [Click to open Demo](https://frank-1150.github.io/)
+
+#### Blog app in Next.JS
+[Next.js](https://nextjs.org/) is a full-stack React framework recommended by the React official website.
+Check out this website clone I built:
+- [GitHub repo](https://github.com/frank-1150/nextjs-blog-app)
+- [Click to open Demo](nextjs-blog-app-eosin-seven.vercel.app)
+
+
+### My interest in building frontend and web services
 
 #### My intern project at Meta
 I was assigned to a customer-facing product group during my internship at Meta. My experiences and skills about React, JavaScript and HTML come from two projects:

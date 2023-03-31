@@ -27,7 +27,7 @@ Check out this website clone I built:
 [Next.js](https://nextjs.org/) is a full-stack React framework recommended by the React official website.
 Check out this website clone I built:
 - [GitHub repo](https://github.com/frank-1150/nextjs-blog-app)
-- [Click to open Demo](nextjs-blog-app-eosin-seven.vercel.app)
+- [Click to open Demo](https://nextjs-blog-app-eosin-seven.vercel.app/)
 
 
 ### My interest in building frontend and web services

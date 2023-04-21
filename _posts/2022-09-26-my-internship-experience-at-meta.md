@@ -2,9 +2,9 @@
 layout: post
 title: My internship experience at Meta
 subtitle: the best summer at Menlo Park
-cover-img: /assets/img/path.jpg
+cover-img: /assets/img/meta_campus.jpg
 thumbnail-img: /assets/img/meta-icon.webp
-share-img: /assets/img/path.jpg
+share-img: /assets/img/meta_campus.jpg
 tags: [internship]
 ---
 

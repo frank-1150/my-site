@@ -1,17 +1,24 @@
 ---
 layout: post
-title: Flake it till you make it
-subtitle: Excerpt from Soulshaping by Jeff Brown
+title: My internship experience at Meta
+subtitle: the best summer at Menlo Park
 cover-img: /assets/img/path.jpg
-thumbnail-img: /assets/img/thumb.png
+thumbnail-img: /assets/img/meta-icon.webp
 share-img: /assets/img/path.jpg
-tags: [books, test]
+tags: [internship]
 ---
 
-Under what circumstances should we step off a path? When is it essential that we finish what we start? If I bought a bag of peanuts and had an allergic reaction, no one would fault me if I threw it out. If I ended a relationship with a woman who hit me, no one would say that I had a commitment problem. But if I walk away from a seemingly secure route because my soul has other ideas, I am a flake?
 
-The truth is that no one else can definitively know the path we are here to walk. It’s tempting to listen—many of us long for the omnipotent other—but unless they are genuine psychic intuitives, they can’t know. All others can know is their own truth, and if they’ve actually done the work to excavate it, they will have the good sense to know that they cannot genuinely know anyone else’s. Only soul knows the path it is here to walk. Since you are the only one living in your temple, only you can know its scriptures and interpretive structure.
+### My intern project at Meta
+I was assigned to a customer-facing product group during my internship at Meta. My experiences and skills about React, JavaScript and HTML come from two projects:
 
-At the heart of the struggle are two very different ideas of success—survival-driven and soul-driven. For survivalists, success is security, pragmatism, power over others. Success is the absence of material suffering, the nourishing of the soul be damned. It is an odd and ironic thing that most of the material power in our world often resides in the hands of younger souls. Still working in the egoic and material realms, they love the sensations of power and focus most of their energy on accumulation. Older souls tend not to be as materially driven. They have already played the worldly game in previous lives and they search for more subtle shades of meaning in this one—authentication rather than accumulation. They are often ignored by the culture at large, although they really are the truest warriors.
+1.	The first one is the drop off flow on this "Book now" button, for example: [this page](https://www.facebook.com/Bestfriendssalon). I am responsible for maintain the BookNow service across all Facebook apps. Besides that, I also built new functionality on the exit flow, aiming to discover at which step and when does users exit the booking flow. What's more, I built the users behavior loggings myself, and used internal data tools (similar to SQL, Tableau) to visualize, analyze the data and to give insightful suggestions for our product team. You may not be able to see the feature because it's still in experiment. I built that using mainly React.JS and JavaScript. 
+![image](https://user-images.githubusercontent.com/76094159/208993601-78dc2273-0c47-4ead-9e1e-45c4560feed6.png)
+![image](https://user-images.githubusercontent.com/76094159/208993629-67e97cef-ae7e-4ee5-8668-8c7891320d1b.png)
+![image](https://user-images.githubusercontent.com/76094159/208993639-5dc2429c-3861-4d54-8e8d-adac2ac8fc94.png)
+![image](https://user-images.githubusercontent.com/76094159/208993660-7f0792ad-fd64-4b45-8bd7-85549f45b316.png)
+ 
+     
+2.	After the code was completed, I performed A/B test on the feature I built on part of our “testing universe”, collecting data, and to decide whether we would launch this feature for all users based on our “statistically significant indicator”. Besides that, I also participate in helping my intern manager conduct and navigate through her A/B/C/D test on her features, which is a more complex version of A/B test with more than one test group. 
 
-A soulful notion of success rests on the actualization of our innate image. Success is simply the completion of a soul step, however unsightly it may be. We have finished what we started when the lesson is learned. What a fear-based culture calls a wonderful opportunity may be fruitless and misguided for the soul. Staying in a passionless relationship may satisfy our need for comfort, but it may stifle the soul. Becoming a famous lawyer is only worthwhile if the soul demands it. It is an essential failure if you are called to be a monastic this time around. If you need to explore and abandon ten careers in order to stretch your soul toward its innate image, then so be it. Flake it till you make it.
+Second project I did is about mobile development on Messenger App, building a server-based frontend pages that can be deliver to mobile side in real time, so that we can update contents without the need for users to update their app versions.
